@@ -2,7 +2,7 @@ This repository is a staging area for innovation, discussion, and building conse
 
 | | Discussion Thread |
 |------:|-----------------------|
-| 1 | <br>[**XHTML Custom Elements**](https://github.com/AdamSobieski/Web/discussions/1)<br>Brainstorming about Web Components and custom elements, instead of HTML custom elements requiring hyphens in their tag names, XHTML custom elements could make use of XML namespaces.<br><br> |
+| 1 | <br>[**XHTML Custom Elements**](https://github.com/AdamSobieski/Web/discussions/1)<br>Brainstorming about Web Components and custom elements, while HTML custom elements presently require hyphens in their tag names, perhaps XHTML custom elements could make use of XML namespaces.<br><br> |
 | 2 | <br>[**Web Object Modeling Language (WOML)**](https://github.com/AdamSobieski/Web/discussions/2)<br>Brainstorming about some XAML/XOML concepts, a markup-based knowledge-representation technology is envisioned that utilizes JavaScript for code-behind features while being interoperable with Web Components, the Shadow DOM, and WebAssembly.<br><br> |
 | 3 | <br>[**Time-varying Semantics**](https://github.com/AdamSobieski/Web/discussions/3)<br>Ideas involving the expression of time-varying knowledge graphs and datasets using WebVTT are explored...<br><br> |
 | 4 | <br>[**Transforming Markup into Semantics with Style**](https://github.com/AdamSobieski/Web/discussions/4)<br>Using additive cascade, Web developers use style selectors to additively attach semantic content to elements and/or documents, effectively transforming markup into semantics with style.<br><br> |
