@@ -1,4 +1,4 @@
-This repository is a staging area for innovation, discussion, and building consensus towards advancing existing knowledge-representation formats and standardizing new such formats.
+This repository is a staging area for innovation, discussion, and building consensus towards advancing existing knowledge-representation formats and creating new such formats.
 
 | Discussion Thread |
 |-------------------|
