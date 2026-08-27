@@ -1,6 +1,6 @@
 This repository is a staging area for innovation, discussion, and building consensus towards advancing existing knowledge-representation formats and creating new such formats.
 
-| Discussion Thread |
+| Discussion Threads |
 |-------------------|
 | <br>[**Evaluating Graphs in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/9)<br>Some ideas are presented about evaluating graphs in RDF languages. These techniques could be useful for expressing and computing set-algebraic operations such as intersection, union, and differencing, for expressing and computing Boolean-algebraic operations such as conjunction, disjunction, and negation, and also more complex nested expressions involving these.<br><br> |
 | <br>[**Set Algebra and Logic in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/8)<br>Using the `Link` HTTP response header, resources, in particular sets of individuals and sets of RDF statements, can provide links to their provenance data including any SPARQL queries used to obtain them. When used with the HTTP `HEAD` method, this can enable or simplify: (1) performing set-algebraic operations on potentially large sets without having to download and exhaustively iterate or enumerate them, and (2) performing logical operations on Boolean literal values without having to first evaluate them.<br><br> |
