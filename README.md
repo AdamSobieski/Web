@@ -10,5 +10,3 @@ This repository is a staging area for innovation, discussion, and building conse
 | <br>[**Transforming Markup into Semantics with Style**](https://github.com/AdamSobieski/Web/discussions/4)<br>Using additive cascade, Web developers could use style selectors to additively attach semantic content to elements and/or documents, effectively transforming markup into semantics with style.<br><br> |
 | <br>[**Time-varying Semantics**](https://github.com/AdamSobieski/Web/discussions/3)<br>Ideas involving time-varying knowledge graphs and datasets are explored.<br><br> |
 | <br>[**XHTML Custom Elements**](https://github.com/AdamSobieski/Web/discussions/1)<br>Brainstorming about Web Components and custom elements, while HTML custom elements presently require hyphens in their tag names, perhaps XHTML custom elements could make use of XML namespaces.<br><br> |
-
-To view and participate in these discussions, please visit the [discussion area](https://github.com/AdamSobieski/Web/discussions).
