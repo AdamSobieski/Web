@@ -2,7 +2,7 @@ This is a staging area for innovation, discussion, and building consensus toward
 
 | Discussion Threads |
 |-------------------|
-| <br>[**Evaluating Expression Graphs in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about evaluating expression graphs in RDF languages. The techniques described would be useful for forming and evaluating set-algebraic operations such as intersection, union, and differencing, for forming and evaluating Boolean-algebraic operations such as conjunction, disjunction, and negation, and for forming and evaluating nested expressions involving these.<br><br> |
+| <br>[**Evaluating Expression Graphs in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about evaluating expression graphs in RDF languages, including lambda expression graphs.<br><br> |
 | <br>[**Set Algebra and Logic in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/8)<br>Syntax is explored to provide set-algebraic and logical operations in RDF languages and HTTP techniques involving using the `HEAD` method to obtain provenance data are discussed for computational optimization.<br><br> |
 | <br>[**Dereferencing URLs in RDF Languages**](https://github.com/AdamSobieski/Web/discussions/7)<br>Drawing inspiration from pointers in computer-programming languages like C and C++, proposed for RDF languages is that the `*` symbol could be used to dereference URLs.<br><br> |
 | <br>[**Prefixed S-expressions and Related Markup Techniques**](https://github.com/AdamSobieski/Web/discussions/6)<br>What if S-expressions could be prefixed with symbols like `#` and `@` to represent attributes and metadata of their parent elements?<br><br> |
