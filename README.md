@@ -2,7 +2,7 @@ This is a staging area for innovation, discussion, and building consensus toward
 
 | Discussion Threads |
 |-------------------|
-| <br>[**Expressions in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about expressions in RDF preprocessors, including lambda expressions.<br><br> |
+| <br>[**Lambda Expressions in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about expressions in RDF preprocessors, including lambda expressions.<br><br> |
 | <br>[**Set Algebra and Logic in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/8)<br>Syntax is explored to provide set-algebraic and logical operations in RDF preprocessors and HTTP techniques are discussed involving using the `HEAD` method to obtain provenance data for optimization purposes.<br><br> |
 | <br>[**Dereferencing URLs in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/7)<br>Drawing inspiration from pointers in computer-programming languages like C and C++, proposed for RDF preprocessors is that the `*` symbol could be used to dereference URLs.<br><br> |
 | <br>[**Prefixed S-expressions and Related Markup Techniques**](https://github.com/AdamSobieski/Web/discussions/6)<br>What if S-expressions could be prefixed with symbols like `#` and `@` to represent attributes and metadata of their parent elements?<br><br> |
