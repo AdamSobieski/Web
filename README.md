@@ -2,6 +2,7 @@ This is a staging area for innovation, discussion, and building consensus toward
 
 || Discussion Threads |
 |--|-------------------|
+| 10 | <br>[**Web Requirements**](https://github.com/AdamSobieski/Web/discussions/10)<br>Presented, here, is a new use of `<link>` elements to reference requirements, constraints, and preferences pertaining to documents and their elements.<br><br> |
 | 9 | <br>[**Lambda Expressions in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about expressions in RDF preprocessors, including lambda expressions.<br><br> |
 | 8 | <br>[**Set Algebra and Logic in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/8)<br>Syntax is explored to provide set-algebraic and logical operations in RDF preprocessors and HTTP techniques are discussed involving using the `HEAD` method to obtain provenance data for optimization purposes.<br><br> |
 | 7 | <br>[**Dereferencing URLs in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/7)<br>Drawing inspiration from pointers in computer-programming languages like C and C++, proposed for RDF preprocessors is that the `*` symbol could be used to dereference URLs.<br><br> |
