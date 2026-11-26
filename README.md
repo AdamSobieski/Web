@@ -2,7 +2,7 @@ This is a staging area for innovation, discussion, and building consensus toward
 
 || Discussion Threads |
 |--|-------------------|
-| 11 | <br>[**The Adaptive Expansion of Hierarchical Data**](https://github.com/AdamSobieski/Web/discussions/11)<br>For a context, one potentially including a user model, how might tree-like data structures be expanded?<br><br> |
+| 11 | <br>[**The Adaptive Expansion of Hierarchical Data Structures**](https://github.com/AdamSobieski/Web/discussions/11)<br>For a context, one potentially including a user model, how might tree-like data structures be expanded?<br><br> |
 | 10 | <br>[**Web Rules, Requirements, and Preferences**](https://github.com/AdamSobieski/Web/discussions/10)<br>Presented here are new techniques involving: (1) uses of `<link>` metadata elements to reference any rules, requirements, or preferences pertaining to hypertext documents and their elements (e.g., from style guides or rubrics), (2) a JSON-LD ontology to represent these rules, requirements, and preferences, and (3) interoperation with a potential Decisions API to verify documents and their elements with respect to these rules, requirements, and preferences.<br><br> |
 | 9 | <br>[**Lambda Expressions in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/9)<br>Ideas are presented about expressions in RDF preprocessors, including lambda expressions.<br><br> |
 | 8 | <br>[**Set Algebra and Logic in RDF Preprocessors**](https://github.com/AdamSobieski/Web/discussions/8)<br>Syntax is explored to provide set-algebraic and logical operations in RDF preprocessors and HTTP techniques are discussed involving using the `HEAD` method to obtain provenance data for optimization purposes.<br><br> |
